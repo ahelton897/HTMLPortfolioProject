@@ -6,8 +6,8 @@ Html, body, h1, h2, h3, p, ol, ul, li, a {
 	  font: inherit;
 }
 
-img {
-    border-radius: 50%;
+.bioimage {
+  border-radius: 50%
 }
 
 body {
