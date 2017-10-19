@@ -6,8 +6,12 @@ Html, body, h1, h2, h3, p, ol, ul, li, a {
 	  font: inherit;
 }
 
-.bioimage {
-  border-radius: 50%
+.bioimage img {
+  display: block;
+  border-radius: 50%;
+  height: 120px;
+  width: 120px;
+  margin: auto;
 }
 
 body {
